@@ -1,4 +1,14 @@
 ###
+<htnl lang= "en">
+  <head>
+    <meta charset="UTF - 8"/> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name-"viewport" content="width=device-width, initial-scale=1.0"/>
+   <div stykle=background-image:![png-transparent-geek-logo-graphy-others-photography-artwork-sales](https://github.com/MrExcel2019/mrexcel2019/assets/56793406/d2ddaa8c-3b5d-44b8-b319-cbde403e9eb8)
+https://www.pngegg.com/en/png-hhqdp; background-size: cover; height:540px;"> <Img src="https://www.pngegg.com/en/png-hhqdp"style=height:150px;"> </div>
+    <h1><p align='center'><b>HEY FRENS!</b><h1></b></h1> <br> 
+     
+  </head>
 <div style="background-color: white;"><bg-color=White> <h1 align='center'>Hi there 👋</h1>
 
 <p align='center'> <b>Full-Stack Developer || Front End || Lets Build Things Together </b>🔨</p>
@@ -21,19 +31,7 @@
 -->
 </p></div>
 
-<!-- <p align='center'>
+<p align='center'>
 
-<!--
-**MrExcel2019/mrexcel2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 🔭 <b>I’m currently open to work</b> || 🌱 <b>Besides, my learning don't stop</b> || 👯 <b>I’m looking to collaborate on your projects</b>
 -->
