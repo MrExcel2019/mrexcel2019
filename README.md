@@ -14,10 +14,10 @@ https://www.pngegg.com/en/png-hhqdp; background-size: cover; height:540px;"> <Im
 <p align='center'> <b>Full-Stack Developer || Front End || Lets Build Things Together </b>🔨</p>
 
 <p align='center'>
-<a href="https://twitter.com/iam_abidoye" target="_blank">
+<a href="https://twitter.com/akanni899" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abidoye-ibraheem/" target="_blank">
+<a href="https://www.linkedin.com/in/a/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:theibraheem1@gmail.com" target="_blank">
