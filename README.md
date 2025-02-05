@@ -11,7 +11,7 @@ https://www.pngegg.com/en/png-hhqdp; background-size: cover; height:540px;"> <Im
   </head>
 <div style="background-color: white;"><bg-color=White> <h1 align='center'>Hi there 👋</h1>
 
-<p align='center'> <b>Full-Stack Developer || Front End || Lets Build Things Together </b>🔨</p>
+<p align='center'> <b>Developer Relations || Project Manager || Front End || Software Test </b>🔨</p>
 
 <p align='center'>
 <a href="https://twitter.com/akanni899" target="_blank">
@@ -33,5 +33,5 @@ https://www.pngegg.com/en/png-hhqdp; background-size: cover; height:540px;"> <Im
 
 <p align='center'>
 
- 🔭 <b>I’m currently open to work</b> || 🌱 <b>Besides, my learning don't stop</b> || 👯 <b>I’m looking to collaborate on your projects</b>
+ 🔭 <b>Open to work</b> || 🌱 <b>We need each other</b> || 👯 <b>What are you building? </b>
 -->
